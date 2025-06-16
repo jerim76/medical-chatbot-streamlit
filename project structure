@@ -1,0 +1,6 @@
+/medical-chatbot
+│
+├── chatbot.py           # Streamlit app
+├── chat_logic.py        # Chat logic or API call handler
+├── requirements.txt     # Dependencies
+├── .env                 # API keys (e.g., OpenAI key)
